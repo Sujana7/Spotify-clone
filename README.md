@@ -47,6 +47,6 @@ If you'd like to contribute to this project, feel free to fork the repository an
 - Inspiration from the Spotify design.
 - Images sourced from free image repositories.
 ## Contact
-For any questions or feedback, please reach out to [trishapavani@gmail.com].
+For any questions or feedback, please reach out to [sujanapenda713@gmail.com].
 ##
 Feel free to adjust the content based on the specific details of your project.
